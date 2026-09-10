@@ -1,0 +1,19 @@
+# MATLAB / Simulink build and cache artifacts
+slprj/
+sccprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*.slxc
+*.mex*
+*.asv
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# Simulink cache and generated code for the Android target
+*_android*/
+*.apk
+
+# macOS
+.DS_Store
