@@ -98,6 +98,12 @@ meant to track.
 
 ### 3. APA subsystem
 
+![APA subsystem block diagram](docs/apa-subsystem.png)
+
+*The `Affine Projection Algorithm` subsystem: the input tapped-delay/buffer chain assembling the
+data matrix (left), the regularized Gram matrix and its LU inverse (top), and the weight-update
+accumulator feeding back through the unit delay (centre).*
+
 Inside `Affine Projection Algorithm`:
 
 | Stage | Implementation |
