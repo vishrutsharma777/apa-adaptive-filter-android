@@ -165,4 +165,4 @@ When it runs on-device, the scopes show:
 
 ## Author
 
-**Vishrut Sharma** — Adaptive Signal Processing, IIT Gandhinagar.
+**Vishrut Sharma** — Advanced Signal Processing, IIT Gandhinagar.
